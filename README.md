@@ -47,3 +47,15 @@ npm run dev
 
 ### Database
 ![MySQL](images/MySQL-table.jpeg)
+
+### Postman
+![registering](images/register.png)
+
+![Retrieving](images/get.png)
+
+![Updating](images/update.png)
+
+![Deleting](images/delete.png)
+
+
+
